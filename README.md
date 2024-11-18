@@ -28,7 +28,7 @@ Sou analista de suporte e estudante de programação, engenharia de prompts com 
 [![ai900](https://img.shields.io/badge/ai--900-pink?style=for-the-badge&logo=site&logoColor=pink&color=%23DE436F)]()
 
 
-[![Bea's GitHub stats](https://github-readme-stats.vercel.app/api?username=bea189&show_icons=true&hide=stars&theme=dracula)](https://github.com/bea189/github-readme-stats)
+[![Bea's GitHub stats](https://github-readme-stats.vercel.app/api?username=bea189&show_icons=true&theme=dracula&count_private=true)](https://github.com/bea189/github-readme-stats)
 
 ## 🔗 Links
 
