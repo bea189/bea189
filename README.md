@@ -40,10 +40,14 @@ Sou analista de suporte e estudante de programação, engenharia de prompts com 
 
 
 
-## 📘Referências
+<details>
+<summary>📘Referências </summary>
+
 - Artigo DIO "[5 Dicas para Melhorar seu Profile README do GitHub](https://www.dio.me/articles/5-dicas-para-melhorar-o-readme-do-seu-perfil-no-github)"
 - Badges by [shields.io](https://shields.io/badges)
 - GitHub Stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md)
+- [Documentação GitHub](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections#creating-a-collapsed-section)
 
+</details>
 
 
