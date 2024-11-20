@@ -9,14 +9,7 @@ Sou analista de suporte e estudante de programação, engenharia de prompts com 
 ⚡️ Em meu tempo livre leio livros, publico no meu blog [Girassol Delicado](https://girassoldelicado.com.br/), tiro fotos e faço amigurumis.
 
 
-## 🛠 Skills
-
-### ⚙️Certificações
-
-[![az900](https://img.shields.io/badge/AZ--900-pink?style=for-the-badge&logo=Microsoft&logoColor=pink&color=%23DE436F)]() 
-[![sc900](https://img.shields.io/badge/sc--900-pink?style=for-the-badge&logo=Microsoft&logoColor=pink&color=%23DE436F)]() 
-[![ms900](https://img.shields.io/badge/ms--900-pink?style=for-the-badge&logo=Microsoft&logoColor=pink&color=%23DE436F)]() 
-
+## 🛠 Habilidades
 
 ### 📝Estudando
 [![html](https://img.shields.io/badge/html-pink?style=for-the-badge&logo=html&logoColor=pink&color=%23DE436F)]() 
@@ -25,12 +18,18 @@ Sou analista de suporte e estudante de programação, engenharia de prompts com 
 [![sql](https://img.shields.io/badge/sql-pink?style=for-the-badge&logo=sql&logoColor=pink&color=%23DE436F)]() 
 [![engenhariaia](https://img.shields.io/badge/engenharia_de_prompts_ia-pink?style=for-the-badge&logo=site&logoColor=pink&color=%23DE436F)]() 
 [![chatgpt](https://img.shields.io/badge/chatgpt-pink?style=for-the-badge&logo=chatgpt&logoColor=pink&color=%23DE436F)]() 
-[![ai900](https://img.shields.io/badge/ai--900-pink?style=for-the-badge&logo=site&logoColor=pink&color=%23DE436F)]()
+
+### ⚙️Certificações
+
+[![az900](https://img.shields.io/badge/AZ--900-pink?style=for-the-badge&logo=Microsoft&logoColor=pink&color=%23DE436F)]() 
+[![sc900](https://img.shields.io/badge/sc--900-pink?style=for-the-badge&logo=Microsoft&logoColor=pink&color=%23DE436F)]() 
+[![ms900](https://img.shields.io/badge/ms--900-pink?style=for-the-badge&logo=Microsoft&logoColor=pink&color=%23DE436F)]() 
 
 
-[![Bea's GitHub stats](https://github-readme-stats.vercel.app/api?username=bea189&show_icons=true&theme=dracula&count_private=true)](https://github.com/bea189/github-readme-stats)
+## 📈 GitHub Stats
+[![Bea's GitHub stats](https://github-readme-stats.vercel.app/api?username=bea189&show_icons=true&theme=dracula&count_private=true&hide_title=true&hide=stars)](https://github.com/bea189/github-readme-stats)
 
-## 🔗 Links
+## 🔗 Conecte-se comigo
 
 [![portfolio](https://img.shields.io/badge/portifolio-pink?style=for-the-badge&logo=site&logoColor=pink&color=%23DE436F)](https://bealuz.myportfolio.com/) 
 [![dio](https://img.shields.io/badge/dio-pink?style=for-the-badge&logo=dio&logoColor=pink&color=%23DE436F)](https://www.dio.me/users/beatrizlopes_luz) 
