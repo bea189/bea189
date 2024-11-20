@@ -1,6 +1,6 @@
 Olá, eu sou a Bea! 👋
 
-Sou analista de suporte e estudante de programação, engenharia de prompts com IA e Segurança da informação. 
+Sou analista de suporte e estudante de Pós-Graduação em Segurança da informação. 
 
 👩‍💻 Trabalho atualmente com gerenciamento de acessos
 
